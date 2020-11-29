@@ -1,0 +1,1 @@
+This repository contains modified files needed to sync specific aircraft. All rights go to their respective owners.

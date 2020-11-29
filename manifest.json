@@ -1,0 +1,60 @@
+[
+    {
+        "name": "A32NX Stable",
+        "directories": {
+            "community": "A32NXS",
+            "definitions": "FBW A32NX Stable.yaml"
+        },
+        "group": "A32NX"
+    },
+    {
+        "name": "A32NX Dev",
+        "directories": {
+            "community": "A32NXD",
+            "definitions": "FBW A32NX Dev.yaml"
+        },
+        "group": "A32NX"
+    },
+    {
+        "name": "C172 G1000",
+        "directories": {
+            "community": "C172 G1000",
+            "definitions": "C172 G1000.yaml"
+        }
+    },
+    {
+        "name": "DA40 NG",
+        "directories": {
+            "community": "DA40NG",
+            "definitions": "DA40 NG.yaml"
+        }
+    },
+    {
+        "name": "DA62",
+        "directories": {
+            "community": "DA62",
+            "definitions": "DA62.yaml"
+        }
+    },
+    {
+        "name": "Pitts",
+        "directories": {
+            "community": "Pitts",
+            "definitions": "Pitts.yaml"
+        }
+    },
+    {
+        "name": "TBM930",
+        "directories": {
+            "community": "TBM930",
+            "definitions": "TBM930.yaml"
+        }
+    },
+    {
+        "name": "XCub",
+        "directories": {
+            "community": "XCub",
+            "definitions": "XCub.yaml"
+        }
+    }
+]
